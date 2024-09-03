@@ -211,11 +211,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Controles do Jogo:\n*Voc\xEA \xE9 um filhote de polvo e precisa sobreviver
-    para se tornar o rei dos mares Kraken.\n*Aperte shift, espa\xE7o ou bot\xE3o
-    direito do mouse para correr.\n*Coma peixes rosa para se tornar o Kraken.\n*Coma
-    peixes vermelhos para restaurar pontos de vida.\n*Aperte ESQ para pausar o jogo
-    e rever as informa\xE7\xF5es."
+  m_Text: "SE TORNE O REI DOS MARES OU SEJA APENAS MAIS UMA PRESA DO OCEANO!\n*Voc\xEA
+    \xE9 um filhote de polvo e precisa sobreviver para se tornar o rei dos mares
+    Kraken.\n*Aperte W,A,S,D ou as SETINHAS para andar\n*Aperte shift, espa\xE7o
+    ou bot\xE3o esquerdo do mouse para correr.\n*Coma 5 peixes rosa para se tornar
+    o Kraken, peixes vermelhos restauram pontos de vida.\n*Aperte ESQ para pausar
+    o jogo e rever as informa\xE7\xF5es.\n*Bot\xF5es de V para reiniciar e X para
+    encerrar"
 --- !u!222 &407979791
 CanvasRenderer:
   m_ObjectHideFlags: 0
